@@ -1,3 +1,5 @@
+![tesla-background](https://user-images.githubusercontent.com/108159910/194407252-b4faca2c-8965-41bb-bec5-8dcf45b60e46.jpeg)
+
 <h1 align="center">Hi 👋, I'm Brendon Van</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
 
