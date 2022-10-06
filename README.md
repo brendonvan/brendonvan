@@ -10,14 +10,14 @@
 <h2>About Me</h2>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
-- 🔭 Projects I'm proud of:
- - [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
- - [This Is Streamify](https://brendonvan.github.io/This-Is-Streamify/)
- - [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
+- 🔭 Here are some of my favorite projects:
+ * [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
+ * [This Is Streamify](https://brendonvan.github.io/This-Is-Streamify/)
+ * [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
 - 🌱 I’m currently learning **Spring 5 + Java**
 
-- 👨‍💻 All of my projects are available at [van.digital](van.digital)
+- 👨‍💻 Here's my portfolio: [van.digital](van.digital)
 
 - 📫 How to reach me **Brendon@van.digital**
 
