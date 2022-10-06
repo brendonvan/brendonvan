@@ -1,6 +1,6 @@
 ![tesla-background](https://user-images.githubusercontent.com/108159910/194407252-b4faca2c-8965-41bb-bec5-8dcf45b60e46.jpeg)
 
-<h1 align="center">Hi there 👋, my name is Brendon Van</h1>
+<h1 align="center">Hi there 👋, I'm Brendon Van</h1>
 
 <h3 align="center">Innovative Software Engineer with 4+ years of experience in Home Automation. I'm used to tight deadlines and challenging tasks. My goal is to work on meaningful products and make a positive impact.</h3>
 
