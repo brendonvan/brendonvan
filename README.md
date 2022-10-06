@@ -8,7 +8,7 @@
 ![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
 
 <h2>About Me</h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
 - 🔭 Projects I've worked on:
  - [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
