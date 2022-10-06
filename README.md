@@ -5,12 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendonvan&label=Profile%20views&color=0e75b6&style=flat" alt="brendonvan" /> </p>
 
-- 🔭 I’m currently working on [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
-
 ![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
 
-
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
 
 - 🌱 I’m currently learning **Spring 5 + Java**
 
@@ -18,6 +17,7 @@
 
 - 📫 How to reach me **Brendon@van.digital**
 
+<h1></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
