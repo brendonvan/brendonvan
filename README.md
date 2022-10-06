@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
 
+![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
+
 - 🌱 I’m currently learning **Spring 5 + Java**
 
 - 👨‍💻 All of my projects are available at [van.digital](van.digital)
