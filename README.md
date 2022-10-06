@@ -1,7 +1,7 @@
 ![tesla-background](https://user-images.githubusercontent.com/108159910/194407252-b4faca2c-8965-41bb-bec5-8dcf45b60e46.jpeg)
 
 <h1 align="center">Hi 👋, I'm Brendon Van</h1>
-<h3 align="center">A passionate full-stack software engineer</h3>
+<h3 align="center">Innovative Full Stack Web Designer with 4+ years of experience in Home Automation. I'm used to tight deadlines and challenging tasks. My goal is to work on mean</h3>
 
 - 🌱 I’m currently learning **Spring + Java**
 
