@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h3>About</h3>
+
 - 🔭 I’m currently working on [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
 
 - 🌱 I’m currently learning **Spring 5 + Java**
