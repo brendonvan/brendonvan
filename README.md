@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendonvan&label=Profile%20views&color=0e75b6&style=flat" alt="brendonvan" /> </p>
 
-![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
-
 <h2>About Me</h2>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
@@ -21,7 +19,8 @@
 
 - 📫 How to reach me **Brendon@van.digital**
 
-<h1></h1>
+![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
