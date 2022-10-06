@@ -19,8 +19,9 @@
 
 - 📫 How to reach me **Brendon@van.digital**
 
-![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
+<h1></h1>
 
+![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
