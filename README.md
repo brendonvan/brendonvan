@@ -12,9 +12,9 @@
 <h2>About Me</h2>
 
 - 🔭 Projects I'm currently working on:
-[Netflix Reimagined](https://netflix-reimagined.netlify.app/)
-[This Is Streamify](https://brendonvan.github.io/This-Is-Streamify/)
-[2048 Clone](https://brendonvan.github.io/Project-1-2048/)
+ - [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
+ - [This Is Streamify](https://brendonvan.github.io/This-Is-Streamify/)
+ - [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
 - 🌱 I’m currently learning **Spring 5 + Java**
 
