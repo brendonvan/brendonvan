@@ -11,7 +11,7 @@
 
 - 🔭 Here are some of my favorite projects:
 - [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
-- [This Is Streamify](https://brendonvan.github.io/This-Is-Streamify/)
+- [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
 - [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
 - 🌱 I’m currently learning **Spring 5 + Java**
