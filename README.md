@@ -1,5 +1,5 @@
 
-![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
+![tesla-background](https://user-images.githubusercontent.com/108159910/194407252-b4faca2c-8965-41bb-bec5-8dcf45b60e46.jpeg)
 
 <h3 align="center">Innovative Software Engineer with 4+ years of experience in Home Automation. I'm used to tight deadlines and challenging tasks. My goal is to work on meaningful products and make a positive impact.</h3>
 
