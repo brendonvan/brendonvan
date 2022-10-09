@@ -7,15 +7,15 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
 - <h4>🔭 Here are some of my favorite projects:</h4>
-- [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
+- [<h4>Netflix Reimagined</h4>](https://netflix-reimagined.netlify.app/)
 - [<h4>This Is Spotify</h4>](https://brendonvan.github.io/This-Is-Streamify/)
-- [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
+- [<h4>2048 Clone</h4>](https://brendonvan.github.io/Project-1-2048/)
 
-- 🌱 I’m currently learning **Spring 5 + Java**
+- <h4>🌱 I’m currently learning **Spring 5 + Java**</h4>
 
-- 👨‍💻 Here's my portfolio: [van.digital](van.digital)
+- <h4>👨‍💻 Here's my portfolio: [van.digital](van.digital)</h4>
 
-- 📫 How to reach me **Brendon@van.digital**
+- <h4>📫 How to reach me **Brendon@van.digital**</h4>
 
 <h1></h1>
 
