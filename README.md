@@ -27,6 +27,8 @@
 <a href="https://www.leetcode.com/brendonvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brendonvan" height="30" width="40" /></a>
 </p>
 
+<h1></h1>
+
 <h2 align="left">💻 Tech Stack:</h2>
 <h3>Languages:</h3>
 
