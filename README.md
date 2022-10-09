@@ -4,18 +4,18 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=brendonvan&label=Profile%20views&color=0e75b6&style=flat" alt="brendonvan" /> </p>
 
 <h2>About Me</h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
-- <h4>🔭 Here are some of my favorite projects:</h4>
-- [<h4>Netflix Reimagined</h4>](https://netflix-reimagined.netlify.app/)
-- [<h4>This Is Spotify</h4>](https://brendonvan.github.io/This-Is-Streamify/)
-- [<h4>2048 Clone</h4>](https://brendonvan.github.io/Project-1-2048/)
+- 🔭 Here are some of my favorite projects:
+- [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
+- [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
+- [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
-- <h4>🌱 I’m currently learning **Spring 5 + Java**</h4>
+- 🌱 I’m currently learning **Spring 5 + Java**
 
-- <h4>👨‍💻 Here's my portfolio: </h4> [van.digital](van.digital)
+- 👨‍💻 Here's my portfolio: [van.digital](van.digital)
 
-- <h4>📫 How to reach me </h4> **Brendon@van.digital**
+- 📫 How to reach me **Brendon@van.digital**
 
 <h1></h1>
 
