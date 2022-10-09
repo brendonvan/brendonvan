@@ -1,7 +1,7 @@
 ![tesla-background](https://user-images.githubusercontent.com/108159910/194407252-b4faca2c-8965-41bb-bec5-8dcf45b60e46.jpeg)
 <h3 align="center">Innovative Software Engineer with 4+ years of experience in Home Automation. I'm used to tight deadlines and challenging tasks. My goal is to work on meaningful products and make a positive impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brendonvan&label=Profile%20views&color=0e75b6&style=flat" alt="brendonvan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=brendonvan&label=Profile%20views&color=0e75b6&style=flat" alt="brendonvan" /> </p>
 
 <h2>About Me</h2>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
