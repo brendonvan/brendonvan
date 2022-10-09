@@ -15,9 +15,9 @@
 - 📫 How to reach me **Brendon@van.digital**
 
 - 🔭 Here are some of my favorite projects:
-- [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
-- [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
-- [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
+- 🎥 [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
+- 🎶 [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
+- 🧮 [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
 
 <h1></h1>
