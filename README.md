@@ -16,7 +16,7 @@
 
 - 🔭 Here are some of my favorite projects:
 - [Netflix Reimagined](https://netflix-reimagined.netlify.app/)
-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
+- [This Is Spotify](https://brendonvan.github.io/This-Is-Streamify/)
 - [2048 Clone](https://brendonvan.github.io/Project-1-2048/)
 
 
