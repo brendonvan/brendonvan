@@ -13,9 +13,9 @@
 
 - <h4>🌱 I’m currently learning **Spring 5 + Java**</h4>
 
-- <h4>👨‍💻 Here's my portfolio: [van.digital](van.digital)</h4>
+- <h4>👨‍💻 Here's my portfolio: </h4> [van.digital](van.digital)
 
-- <h4>📫 How to reach me **Brendon@van.digital**</h4>
+- <h4>📫 How to reach me </h4> **Brendon@van.digital**
 
 <h1></h1>
 
