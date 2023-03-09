@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring 5 + Java**
 
-- 👨‍💻 Here's my portfolio: [brendonvan.dev](brendonvan.dev)
+- 👨‍💻 Here's my portfolio: [brendonvan.dev](https://www.brendonvan.dev)
 
 - 📫 How to reach me **Brendon@van.digital**
 
