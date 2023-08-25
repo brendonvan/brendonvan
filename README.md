@@ -16,7 +16,7 @@
 
 - 🔭 Here are some of my favorite projects:
 - 🚗🔌🔋 [Tesla Reimagined](https://github.com/brendonvan/Tesla-Reimagined)
-- 🎥 [Netflix Reimagined](https://github.com/brendonvan/Netflix-Reimagined) & 🎶 [This Is Spotify](https://github.com/brendonvan/This-Is-Streamify)
+- 🎥 [Netflix Reimagined](https://github.com/brendonvan/Netflix-Reimagined)
 - 🎮 [2048 Clone](https://github.com/brendonvan/2048-clone)
 
 
