@@ -15,7 +15,7 @@
 - 📫 How to reach me **Brendon@van.digital**
 
 - 🔭 Here are some of my favorite projects:
-- Coming soon 🚗🔌🔋 [Tesla Reimagined](https://github.com/brendonvan/Tesla-Reimagined)
+- 🚗🔌🔋 [Tesla Reimagined](https://github.com/brendonvan/Tesla-Reimagined)
 - 🎥 [Netflix Reimagined](https://github.com/brendonvan/Netflix-Reimagined) & 🎶 [This Is Spotify](https://github.com/brendonvan/This-Is-Streamify)
 - 🎮 [2048 Clone](https://github.com/brendonvan/2048-clone)
 
